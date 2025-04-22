@@ -1,10 +1,7 @@
 {
-    "HWID_1": {
-        "key": "uniquekey1",
-        "timestamp": 1234567890
-    },
-    "HWID_2": {
-        "key": "uniquekey2",
-        "timestamp": 1234567890
+    "example_hwid_userid_displayname": {
+        "key": "example_key_20_chars_long",
+        "timestamp": 1234567890,
+        "username": "ExampleUser"
     }
-}
+} 

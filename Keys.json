@@ -1,0 +1,10 @@
+{
+    "HWID_1": {
+        "key": "uniquekey1",
+        "timestamp": 1234567890
+    },
+    "HWID_2": {
+        "key": "uniquekey2",
+        "timestamp": 1234567890
+    }
+}
